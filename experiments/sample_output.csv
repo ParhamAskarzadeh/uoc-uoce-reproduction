@@ -1,0 +1,4 @@
+id,raw_text,aspect_term,sentiment_expression,target_entity,aspect_category,sentiment_polarity,opinion_holder_span,opinion_holder_entity,sentiment_intensity,opinion_qualifier,opinion_reason
+u-1,I really love the battery life but the screen is bad.,battery,really love,laptop,operational_performance,positive,N/A,author,strong,N/A,N/A
+u-2,The service was very good and the food was excellent.,service,very good,restaurant,service,positive,N/A,author,strong,N/A,N/A
+u-3,The price is terrible.,price,terrible,general,price,negative,N/A,author,average,N/A,N/A

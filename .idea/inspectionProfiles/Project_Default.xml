@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="psycopg2-binary" />
+          <option value="boto3" />
+          <option value="ffmpeg-python" />
+          <option value="requests" />
+          <option value="python-dotenv" />
+          <option value="demucs" />
+          <option value="torchaudio" />
+          <option value="denoiser" />
+          <option value="soundfile" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
